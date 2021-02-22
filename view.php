@@ -14,7 +14,7 @@ $comments = mysqli_fetch_all($result);
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">g
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
