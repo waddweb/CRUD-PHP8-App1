@@ -48,7 +48,7 @@ $comments = mysqli_fetch_all($result);
             } 
             ?>
     </ul>
-    <h2><a href="index.php">Home</a></h2>
+    <h2><a href="index.php">Home</a> </h2>
     
 
 </body>
