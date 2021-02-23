@@ -1,4 +1,4 @@
-<?php
+ <?php
 // CRUD PHP App
 require_once 'settings/db_connect.php';
 
